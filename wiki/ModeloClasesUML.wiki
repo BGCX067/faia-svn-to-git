@@ -1,0 +1,6 @@
+#summary Modelo parcial de clases, con los componentes principales de FAIA.
+#labels Featured
+
+= Modelo parcial de clases UML =
+
+http://faia.googlecode.com/svn/wiki/images/modelosUML/modelo_clases_parcial.png
